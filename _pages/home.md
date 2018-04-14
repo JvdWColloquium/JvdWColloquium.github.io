@@ -16,8 +16,7 @@ Thomas and his group develop new EPR instrumentation to study biological systems
 
 
 ## Spring 2019
-- 26\. Jan:		__Erica Carlson__		Purdue University	
-
+- 26\. Jan:		__Erica Carlson__		Purdue University
  Erica and her group work on the theory of strongly correlated electron matter. She works on stripes, noise, and fractal phase separation. _Host: Milan Allan_
 
 - 16\. Feb:	__Roel Dulles__	University of Oxford	
