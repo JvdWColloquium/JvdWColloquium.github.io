@@ -6,9 +6,9 @@ sitemap: false
 permalink: /
 ---
 
-# Joan van der Waals Colloquium
+# Program
 
-Jump to  [Fall 2018](#Fall 2018),  [Fall 2017](#Fall 2017),  ...
+Jump to  [Fall 2018](#fall-2018),  [Fall 2017](#fall-2017),  ...
 
 ## Next Colloquium
 - 04\. April:  __Thomas Prisner__  Universität Frankfurt
