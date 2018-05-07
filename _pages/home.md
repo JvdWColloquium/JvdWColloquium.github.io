@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-![JvdW logo](/tree/master/images/vdW_colloq_logo_i-01.png)
+![JvdW logo](/https://github.com/JvdWColloquium/JvdWColloquium.github.io/tree/master/images/vdW_colloq_logo_i-01.png)
 
 # Program
 
