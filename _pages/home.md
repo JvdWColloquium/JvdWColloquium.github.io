@@ -18,7 +18,7 @@ permalink: /
 
 # Program
 
-Jump to  [Fall 2018](#fall-2018),  [Spring 2019](#spring-2019),  ...
+[Fall 2018](#fall-2018),  [Spring 2019](#spring-2019)
 
 
 ## Fall 2018
