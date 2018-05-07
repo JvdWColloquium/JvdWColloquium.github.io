@@ -7,7 +7,7 @@ permalink: /
 ---
 
 
-<img src="/images/vdW_colloq_logo_i-01.png" width="400">
+<img src="/images/vdW_colloq_logo_i-01.png" width="800">
 
 
 # Program
