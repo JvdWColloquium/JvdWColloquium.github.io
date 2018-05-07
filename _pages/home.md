@@ -12,14 +12,16 @@ permalink: /
 <img src="/images/aprili.png" width="800" class="center">
 
 
-# Next Colloquium
+# Upcoming Colloquium
 - 04\. April:  __Thomas Prisner__,  Universität Frankfurt
 -- Thomas and his group develop new EPR instrumentation to study biological systems and nano materials. _Host: Martina Huber_
 
 # Program
 
-Jump to  [Fall 2018](#fall-2018),  [Fall 2017](#fall-2017),  ...
+Jump to  [Fall 2018](#fall-2018),  [Spring 2019](#spring-2019),  ...
 
+
+## Fall 2018
 
 ## Spring 2019
 - 26\. Jan:		__Erica Carlson__,	Purdue University 
@@ -38,13 +40,6 @@ Jump to  [Fall 2018](#fall-2018),  [Fall 2017](#fall-2017),  ...
 -- Thomas and his group develop new EPR instrumentation to study biological systems and nano materials. _Host: Martina Huber_
 
 
-## Fall 2018
-
-## Spring 2018
-
-## Fall 2017
-
-## Spring 2017
 
 
 
