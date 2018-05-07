@@ -3,7 +3,7 @@ title: "Program JvdW colloquium"
 layout: textlay
 excerpt: "JvdW colloquium at Leiden University."
 sitemap: false
-permalink: /
+permalink: /home
 ---
 
 
