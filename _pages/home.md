@@ -9,6 +9,9 @@ permalink: /
 
 <img src="/images/vdW_colloq_logo_i-01.png" width="800" class="center">
 
+<img src="/images/aprili.png" width="800" class="center">
+
+[a relative link](/_pages/about.md)
 
 # Program
 
