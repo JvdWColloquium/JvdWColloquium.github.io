@@ -6,7 +6,9 @@ sitemap: false
 permalink: /
 ---
 
-![JvdW logo](/images/vdW_colloq_logo_i-01.png){:width="50%"}
+
+<img src="/images/vdW_colloq_logo_i-01.png" width="200">
+
 
 # Program
 
