@@ -11,7 +11,7 @@ permalink: /
 
 <img src="/images/aprili.png" width="800" class="center">
 
-[a link](https://github.com/JvdWColloquium/JvdWColloquium.github.io/edit/master/_pages/about.html)
+[a link](https://jvdwcolloquium.github.io/_pages/about.md)
 
 # Program
 
