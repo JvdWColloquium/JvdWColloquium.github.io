@@ -1,7 +1,7 @@
 ---
-title: "About"
+title: "about"
 layout: textlay
-excerpt: "About"
+excerpt: "about"
 sitemap: false
 permalink: /
 ---
