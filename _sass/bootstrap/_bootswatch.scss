@@ -167,41 +167,7 @@ $web-font-path: "https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400
   color: $brand-info;
 }
 
-// Tables =====================================================================
 
-table,
-.table {
-
-  a:not(.btn) {
-    text-decoration: underline;
-  }
-
-  .dropdown-menu a {
-    text-decoration: none;
-  }
-
-  .success,
-  .warning,
-  .danger,
-  .info {
-    color: #fff;
-
-    a:not(.btn) {
-      color: #fff;
-    }
-  }
-
-  &:not(.table-bordered) {
-    > thead > tr > th,
-    > tbody > tr > th,
-    > tfoot > tr > th,
-    > thead > tr > td,
-    > tbody > tr > td,
-    > tfoot > tr > td {
-      border-color: transparent;
-    }
-  }
-}
 
 // Forms ======================================================================
 
