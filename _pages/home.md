@@ -13,13 +13,13 @@ permalink: /
 
 [a link](/_pages/about.md)
 
-# Program
-
-Jump to  [Fall 2018](#fall-2018),  [Fall 2017](#fall-2017),  ...
-
 ## Next Colloquium
 - 04\. April:  __Thomas Prisner__,  Universität Frankfurt
 -- Thomas and his group develop new EPR instrumentation to study biological systems and nano materials. _Host: Martina Huber_
+
+# Program
+
+Jump to  [Fall 2018](#fall-2018),  [Fall 2017](#fall-2017),  ...
 
 
 ## Spring 2019
