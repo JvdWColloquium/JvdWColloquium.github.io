@@ -11,7 +11,7 @@ permalink: /
 
 <img src="/images/aprili.png" width="800" class="center">
 
-[a link](/_pages/about.md)
+[a link](https://github.com/JvdWColloquium/JvdWColloquium.github.io/edit/master/_pages/home.md)
 
 # Next Colloquium
 - 04\. April:  __Thomas Prisner__,  Universität Frankfurt
