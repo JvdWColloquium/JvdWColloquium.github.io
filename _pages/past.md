@@ -11,11 +11,22 @@ permalink: /past
 
 |**Date**|**Speaker**|**Title**|**Affiliation**|
 |:-----:|:-----:|:-----:|:-----:|
-| 15/Nov/2018 | Eva Y. Andrei  | The magic of atomically thin crystals  | Rutgers University, USA  | |
-| 15/Nov/2018 | Nikta Fakhri  | Thermodynamics of biological active matter  | MIT, USA  | |
-| 20/Oct/2018 | Jonathan Leach  | Imaging at the speed of light  | Heriot-Watt University, UK  | |
-| 20/Sep/2018 | Carsten Sönnichsen  | Plasmonic Nanoparticles as sensor for single molecules  | University of Mainz, GER  | |
-| 20/Apr/2018 | Marco Aprili                | Spin Physics in Mesoscopic Superconductors                                                                                                         | Université Paris Sud, Laboratoire de Physique des Solides, CNRS, France                                                   |  | 
+| 21/Feb/2020 | Eva Y. Andrei  | The magic of atomically thin crystals  | Rutgers University, USA  | |
+| 12/Dec/2019 | Peng Chen  | Single-molecule chemistry: nanocatalysts and bacterial efflux  | Cornell University, USA | |
+| 09/Dec/2019 | J.C. Séamus Davis  | Discovery and Exploration of the Cuprate  | University of Oxford, UK | |
+| 15/Nov/2019 | Nikta Fakhri  | Thermodynamics of biological active matter  | MIT, USA  | |
+| 18/Oct/2019 | Jonathan Leach  | Imaging at the speed of light  | Heriot-Watt University, UK  | |
+| 20/Sep/2019 | Carsten Sönnichsen  | Plasmonic Nanoparticles as sensor for single molecules  | University of Mainz, GER  | |
+| 10/May/2019 | Gilad Haran  | How fast are functional motions of protein machines? A single-molecule perspective  | Weizmann Institute, Israel  | |
+| 15/Mar/2019 | Jascha Repp  | Accessing non-equilibrium states at the atomic scale  | Universität Regensburg, Germany  | |
+| 01/Mar/2019 | Elizabeth von Hauff  | A dynamic picture of photovoltaic energy conversion  | VU Amsterdam  | |
+| 15/Feb/2019 | Lyderic Bocquet  | Water and ionic transport at (sub-)nanoscales: puzzles and application  | Ecolé Normale Supérieure, France  | |
+| 01/Feb/2019 | Dmitri Efetov  |   | ICFO, Spain  | |
+| 07/Dec/2018 | Guillaume Schull  | STM-induced light emission: from molecular LED to subnanometric optical microscopy  | Université de Strasbourg, France  | |
+| 23/Nov/2018 | Simon Gröblacher  | Quantum experiments with massive, mechanical oscillators  | TU Delft  | |
+| 09/Nov/2018 | Jacqueline Bloch  | Fluids of light in semiconductor lattices  | CNRS & Paris Sud University  | |
+| 26/Oct/2018 | Amit Meller  | Nanopore bio-sensing: past, present and future  | Technion, Israel  | |
+| 20/Apr/2018 | Marco Aprili                | Spin Physics in Mesoscopic Superconductors                                                                                                         | Université Paris Sud & CNRS, France                                                   |  | 
 | 6/Apr/2018  | Thomas F. Prisner           | Structure and Dynamics of Nucleic Acid Molecules                                                                                                   | University of Frankfurt am Main, Germany                                                                                  |  | 
 | 23/Mar/2018 | Mete Atatüre                | Solid-State Spin-Photon Interfaces: Old Friends & New                                                                                              | University of Cambridge, UK                                                                                               |  | 
 | 23/Feb/2018 | Vidya Madhavan              | Massless and Massive Electrons: Relativistic Physics in Condensed Matter Systems                                                                   | University of Illinois, Urbana-Champaign, USA                                                                             |  | 
