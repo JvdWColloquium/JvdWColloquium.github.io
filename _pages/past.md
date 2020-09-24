@@ -11,6 +11,10 @@ permalink: /past
 
 |**Date**|**Speaker**|**Title**|**Affiliation**|
 |:-----:|:-----:|:-----:|:-----:|
+| 15/Nov/2018 | Eva Y. Andrei  | The magic of atomically thin crystals  | Rutgers University, USA  | |
+| 15/Nov/2018 | Nikta Fakhri  | Thermodynamics of biological active matter  | MIT, USA  | |
+| 20/Oct/2018 | Jonathan Leach  | Imaging at the speed of light  | Heriot-Watt University, UK  | |
+| 20/Sep/2018 | Carsten Sönnichsen  | Plasmonic Nanoparticles as sensor for single molecules  | University of Mainz, GER  | |
 | 20/Apr/2018 | Marco Aprili                | Spin Physics in Mesoscopic Superconductors                                                                                                         | Université Paris Sud, Laboratoire de Physique des Solides, CNRS, France                                                   |  | 
 | 6/Apr/2018  | Thomas F. Prisner           | Structure and Dynamics of Nucleic Acid Molecules                                                                                                   | University of Frankfurt am Main, Germany                                                                                  |  | 
 | 23/Mar/2018 | Mete Atatüre                | Solid-State Spin-Photon Interfaces: Old Friends & New                                                                                              | University of Cambridge, UK                                                                                               |  | 
